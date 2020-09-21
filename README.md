@@ -1,5 +1,7 @@
 # Hey 👋, I'm Matheus Henrique
 
+<img align="right" src="https://user-images.githubusercontent.com/56003521/93805566-5005d780-fc1e-11ea-81ab-13e9d0ea569e.png" width="350"/>
+
 **I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.**
 
 - 📍 Campina Grande, Paraíba.
