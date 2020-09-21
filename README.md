@@ -1,4 +1,4 @@
-# Hey 👋, I'm Matheus Henrique
+# Hi there 👋, I'm Matheus Henrique
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheushg" alt="matheushg" /> </p>
 <img align="right" src="https://user-images.githubusercontent.com/56003521/93805566-5005d780-fc1e-11ea-81ab-13e9d0ea569e.png" width="350"/>
