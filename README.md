@@ -1,13 +1,12 @@
-# Hey 👋🏻
-<img align="right" src="https://user-images.githubusercontent.com/56003521/93805566-5005d780-fc1e-11ea-81ab-13e9d0ea569e.png" width="350"/>
-
-My name is Matheus Henrique, I'm from Brazil. I have an interest with greater emphasis in the areas of Web and Mobile Development, dominating the main technologies of the market.
+# Hey 👋, I'm Matheus Henrique
 
 **I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.**
 
 - 📍 Campina Grande, Paraíba.
 - 👨🏻‍💻 Back-end developer at Codex Junior Company.
 - 🎓 Graduating in Computer Science at the Federal University of Campina Grande.
+- 🌱 I’m currently learning **JavaScript, ReactJS, React Native, NodeJS**
+- 📫 How to reach me **mhenriique18@gmail.com**
 
 <br />
 
