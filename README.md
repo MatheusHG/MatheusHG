@@ -5,7 +5,7 @@
 **I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.**
 
 - 📍 Campina Grande, Paraíba.
-- 👨🏻‍💻 Back-end developer at Codex Junior Company.
+- 👨🏻‍💻 Developer at Codex Junior Company.
 - 🎓 Graduating in Computer Science at the Federal University of Campina Grande.
 - 🌱 I’m currently learning **JavaScript, React, React Native, Node, Next**
 - 📫 How to reach me **mhenriique18@gmail.com**
