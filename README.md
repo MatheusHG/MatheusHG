@@ -5,9 +5,9 @@
 **I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.**
 
 - 📍 Campina Grande, Paraíba.
-- 👨🏻‍💻 Developer at Codex Junior Company.
+- 👨🏻‍💻 Software Developer at the Public Intelligence Laboratory.
 - 🎓 Graduating in Computer Science at the Federal University of Campina Grande.
-- 🌱 I’m currently learning **JavaScript, React, React Native, Node, Next**
+- 🌱 I’m currently learning **React, React Native, Node, Next, JavaScript** and **TypeScript**
 - 📫 How to reach me **mhenriique18@gmail.com**
 
 <br />
@@ -20,7 +20,6 @@
 <br />
 
 <p align="center">
-<a href="https://linkedin.com/in/matheushgo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="matheushgo" height="30" width="30" /></a>
 <a href="https://instagram.com/matheushgo_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matheushgo" height="30" width="30" /></a>
 </p>
 
