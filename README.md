@@ -20,7 +20,7 @@
 <br />
 
 <p align="center">
-<a href="https://instagram.com/matheushgo_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matheushgo" height="30" width="30" /></a>
+<a href="https://instagram.com/matheushgoliveira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matheushgo" height="30" width="30" /></a>
 </p>
 
 
