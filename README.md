@@ -5,7 +5,7 @@
 **I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.**
 
 - 📍 Campina Grande, Paraíba.
-- 👨🏻‍💻 Software Developer at the Public Intelligence Laboratory.
+- 👨🏻‍💻 Software Developer.
 - 🎓 Graduating in Computer Science at the Federal University of Campina Grande.
 - 🌱 I’m currently learning **React, React Native, Node, Next, Ruby on Rails, JavaScript** and **TypeScript**
 - 📫 How to reach me **mhenriique18@gmail.com**
